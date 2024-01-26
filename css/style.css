@@ -1600,6 +1600,10 @@ input .form__input-tell::placeholder {
     max-width: 100%;
   }
 
+  .videoinfo__img-fotosmall img {
+    width: 300px;
+  }
+
   .characteristics__container {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
