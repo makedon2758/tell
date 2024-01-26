@@ -1133,6 +1133,8 @@ input .form__input-tell::placeholder {
 
   .videoinfo__img-fotosmall {
     display: none;
+    width: 0;
+    height: 0;
   }
 }
 
@@ -1203,14 +1205,20 @@ input .form__input-tell::placeholder {
 
   .bgc-order {
     display: none;
+    width: 0;
+    height: 0;
   }
 
   .arrow::after {
     background-image: none;
+    width: 0;
+    height: 0;
   }
 
   .orders__container::before {
     background-image: none;
+    width: 0;
+    height: 0;
   }
 
   .orders__titl {
@@ -1404,6 +1412,8 @@ input .form__input-tell::placeholder {
 
   .videoinfo__img-foto {
     display: none;
+    width: 0;
+    height: 0;
   }
 
   .videoinfo__img-fotosmall img {
@@ -1445,6 +1455,8 @@ input .form__input-tell::placeholder {
 
   .comparison__col-none {
     display: none;
+    width: 0;
+    height: 0;
   }
 
   .no-webp .bgc__img-black{
