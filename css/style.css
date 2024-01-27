@@ -2630,6 +2630,7 @@ button.swiper-pagination-bullet {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+    gap: 90px;
   }
 
   .info__item-img img {
@@ -2859,7 +2860,8 @@ button.swiper-pagination-bullet {
     background-image: url("./img/tell_bgc_black_small.jpg"); }
 
   .bgc__img-black {
-    height: 370px;
+    margin-top: -10px;
+    height: 430px;
     background-repeat: no-repeat;
     background-size: cover;
   }
