@@ -1065,7 +1065,7 @@ input .form__input-tell::placeholder {
 }
 
 .no-webp .bgc__img-black{
-  background-image: url("./img/tell_bgc_black.png"); }
+  background-image: url("../img/tell_bgc_black.png"); }
 
 .bgc__img-black {
   height: 700px;
@@ -2857,7 +2857,7 @@ button.swiper-pagination-bullet {
   }
 
   .no-webp .bgc__img-black{
-    background-image: url("./img/tell_bgc_black_small.jpg"); }
+    background-image: url("../img/tell_bgc_black_small.jpg"); }
 
   .bgc__img-black {
     margin-top: -10px;
@@ -3325,11 +3325,11 @@ button.swiper-pagination-bullet {
 
 .webp .activeman{ background-image: url(../img/active_man.webp); }
 
-.webp .bgc__img-black{ background-image: url(./img/tell_bgc_black.webp); }
+.webp .bgc__img-black{ background-image: url(../img/tell_bgc_black.webp); }
 
 @media (max-width: 61.99875em){
 
-  .webp .bgc__img-black{ background-image: url(./img/tell_bgc_black_small.webp); }
+  .webp .bgc__img-black{ background-image: url(../img/tell_bgc_black_small.webp); }
 }
 
 @media (max-width: 47.99875em){
