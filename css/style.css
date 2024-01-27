@@ -1,6 +1,6 @@
 @import url(https://fonts.cdnfonts.com/css/futura-pt);
 
-@charset "UTF-8";
+
 
 * {
   padding: 0px;
@@ -2903,7 +2903,7 @@ button.swiper-pagination-bullet {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    gap: 35px;
+    
   }
 
   .info__colums-item {
