@@ -2856,16 +2856,6 @@ button.swiper-pagination-bullet {
     height: 0;
   }
 
-  .no-webp .bgc__img-black{
-    background-image: url("../img/tell_bgc_black_small.jpg"); }
-
-  .bgc__img-black {
-    margin-top: -10px;
-    height: 430px;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
   .guarantee__container {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
@@ -3084,6 +3074,16 @@ button.swiper-pagination-bullet {
 @media (max-width: 29.99875em) {
   .infodeff__img {
     top: -40%;
+  }
+
+  .no-webp .bgc__img-black{
+    background-image: url("../img/tell_bgc_black_small.jpg"); }
+
+  .bgc__img-black {
+    margin-top: -10px;
+    height: 430px;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
 
@@ -3327,12 +3327,12 @@ button.swiper-pagination-bullet {
 
 .webp .bgc__img-black{ background-image: url(../img/tell_bgc_black.webp); }
 
-@media (max-width: 61.99875em){
-
-  .webp .bgc__img-black{ background-image: url(../img/tell_bgc_black_small.webp); }
-}
-
 @media (max-width: 47.99875em){
 
   .webp .order{ background-image: url(../img/header/hesder_img_human_small.webp); }
+}
+
+@media (max-width: 29.99875em){
+
+  .webp .bgc__img-black{ background-image: url(../img/tell_bgc_black_small.webp); }
 }
